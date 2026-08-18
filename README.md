@@ -14,9 +14,13 @@ Seeking graduate roles in analytics, consulting, and strategy
 | 04 | [Vehicle Price Analysis](./04_Vehicle_Price_Analysis) | Python, Pandas, Scikit-learn | EDA, regression modelling |
 | 05 | [Loan Approval Prediction](./05_Loan_Approval_Prediction) | Python, Scikit-learn | Classification, binary prediction |
 | 06 | [Critical Analysis - Australian Vehicles](./06_Critical_Analysis) | Python, Pandas | Statistical analysis, insight communication |
+| 07 | [Coffee Sales MapReduce Analysis](./07_Coffee_Sales_MapReduce) | Python, mrjob, MongoDB | Distributed processing, big data, time series |
+| 08 | [Gym Database & SQL Analysis](./08_Gym_Database_SQL) | MySQL, SQL | ERD design, normalisation, business SQL analytics |
 
 ## Skills
-Python | SQL | R | Tableau | Power BI | Pandas | Scikit-learn | Machine learning | Statistical modelling | Data visualisation | MapReduce
+
+Python | SQL | R | Tableau | Power BI | Pandas | Scikit-learn | MongoDB | Machine learning | Statistical modelling | Data visualisation | MapReduce
 
 ## Contact
+
 [LinkedIn](https://www.linkedin.com/in/isidora-gautier) | ifgautier@uc.cl
